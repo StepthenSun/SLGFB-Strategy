@@ -4,13 +4,11 @@
 <div align="center">
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-2501.xxxxx-b31b1b.svg)](https://arxiv.org)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org)
+
 
 **A Novel Quantitative Trading Strategy Based on Stochastic Differential Geometry**
 
-*理论物理与金融数学的交叉：将李群纤维丛理论引入量化交易*
+
 
 </div>
 
