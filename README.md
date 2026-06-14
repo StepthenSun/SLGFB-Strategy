@@ -7,7 +7,7 @@
 
 *Where Differential Geometry, Algebraic Topology, and Stochastic Analysis meet Algorithmic Trading.*
 
-[📖 Read the Whitepaper] | [🚀 Quick Start] | [📊 Backtest Reports] | [🧠 Math Derivations]
+
 
 ---
 
